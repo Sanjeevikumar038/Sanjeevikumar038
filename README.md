@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Sanjeevikumar+%F0%9F%91%8B;Full+Stack+Dev+%7C+Java+%2B+React+%2B+Spring+Boot;RAG+Systems+%7C+LLM+APIs+%7C+AI+Engineer;Building+Scalable+Software+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full+Stack+Dev+%7C+Java+%2B+React+%2B+Spring+Boot;RAG+Systems+%7C+LLM+APIs+%7C+AI+Engineer;Building+Scalable+Software+Solutions+%F0%9F%9A%80;Open+Banking+%7C+Microservices+%7C+Docker)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sanjeevikumar038&color=70a5fd&style=flat-square&label=Profile+Views)](https://github.com/Sanjeevikumar038)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sanjeevikumar038)
@@ -123,7 +123,7 @@ public class Sanjeevikumar {
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Sanjeevikumar038&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Sanjeevikumar038&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
