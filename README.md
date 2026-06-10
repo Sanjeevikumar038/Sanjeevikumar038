@@ -1,7 +1,5 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=100&lines=SANJEEVIKUMAR+D" alt="name"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=BF91F3&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+%7C+Open+Banking+Builder" alt="tagline"/>
 </div>
 
 <div align="center">
