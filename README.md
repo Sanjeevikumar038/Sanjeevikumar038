@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SANJEEVIKUMAR%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Open%20Banking%20Builder&descAlignY=62&descSize=16" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=SANJEEVIKUMAR%20D&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Open%20Banking%20Builder&amp;descAlignY=62&amp;descSize=16" alt="header" width="100%"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sanjeevikumar+%F0%9F%91%8B;Full+Stack+Dev+%7C+Java+%2B+React+%2B+Spring+Boot;RAG+Systems+%7C+LLM+APIs+%7C+AI+Engineer;Building+Scalable+Software+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
@@ -201,6 +201,6 @@ public class Sanjeevikumar {
 
 *"Passionate about solving real-world problems through scalable software solutions."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" alt="footer" width="100%"/>
 
 </div>
