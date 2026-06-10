@@ -1,4 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SANJEEVIKUMAR%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Open%20Banking%20Builder&descAlignY=62&descSize=16)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&height=100&lines=SANJEEVIKUMAR+D" alt="name"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=BF91F3&center=true&vCenter=true&width=800&height=50&lines=Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast+%7C+Open+Banking+Builder" alt="tagline"/>
+</div>
 
 <div align="center">
 
@@ -186,4 +190,6 @@ public class Sanjeevikumar {
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2000&pause=500&color=38BDAE&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+visiting!+%F0%9F%9A%80;Let%27s+build+something+amazing+together!" alt="footer"/>
+</div>
