@@ -133,10 +133,10 @@ public class Sanjeevikumar {
 
 | Project | Stack | Highlights |
 |:-------:|:-----:|:----------:|
-| [🏦 Open Banking API Gateway](https://github.com/Sanjeevikumar038) | Java · Spring Boot · React · PostgreSQL · Docker | Full-stack API Gateway with JWT auth, consent management, analytics and rate limiting |
-| [🤖 Gate AI Assistant — RAG System](https://github.com/Sanjeevikumar038) | Python · FAISS · Streamlit · Groq LLM | RAG-based AI for semantic search, syllabus Q&A and mock test generation |
-| [🔍 Fraud Detection Microservices](https://github.com/Sanjeevikumar038) | Spring Boot · Kafka · Microservices · PostgreSQL | Distributed fraud detection with transaction monitoring and REST communication |
-| [📝 Quiz Management System](https://github.com/Sanjeevikumar038) | React · Spring Boot · PostgreSQL | Automated quiz platform with instant evaluation and performance tracking |
+| [🏦 Open Banking API Gateway](https://github.com/Sanjeevikumar038/Open-banking-API-Gateway) | Java · Spring Boot · React · PostgreSQL · Docker | Full-stack API Gateway with JWT auth, consent management, analytics and rate limiting |
+| [🤖 GATE AI Assistant — RAG System](https://github.com/Sanjeevikumar038/GATE_RAG) | Python · FAISS · Streamlit · Groq LLM | RAG-based AI for semantic search, syllabus Q&A and mock test generation |
+| [🔍 Fraud Detection Microservices](https://github.com/Sanjeevikumar038/fraud-detection-system) | Spring Boot · Kafka · Microservices · PostgreSQL | Distributed fraud detection with transaction monitoring and REST communication |
+| [📝 Quiz Management System](https://github.com/Sanjeevikumar038/QuizMaster) | React · Spring Boot · PostgreSQL | Automated quiz platform with instant evaluation and performance tracking |
 
 </div>
 
